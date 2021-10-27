@@ -132,8 +132,6 @@ export PATH="/home/maxence/Soft/typora/Typora:$PATH"
 # set cuda cxx compiler
 export CUDAHOSTCXX=/usr/bin/gcc-8
 
-#alias for opvpn
-alias openvpn-irma="sudo openvpn --config /etc/openvpn/irma.opvn"
 
 alias setclip="xclip -selection c"
 alias getclip="xclip -selection c -o"
